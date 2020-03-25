@@ -2,8 +2,8 @@
 
 - [x] Start
 - [x] JSON in cache
-- [ ] Upgrade code
-- [ ] Sqlite
+- [x] Upgrade code
+- [x] Sqlite
 - [ ] User with JWT
 - [ ] PostgreSQL
 - [ ] Worthy README
